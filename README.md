@@ -1,7 +1,3 @@
-Here's the GitHub README content for your Spotify 2.0 Clone Music App:
-
----
-
 # Spotify 2.0 Clone Music App
 
 Welcome to the Spotify 2.0 Clone Music App! This project is an enhanced version of the popular music streaming service, Spotify. It includes features such as music playlists, search functionality, player controls, albums, and genre options to ensure a seamless and smooth user experience.
