@@ -60,5 +60,3 @@ We welcome contributions to enhance the Spotify 2.0 Clone Music App! To contribu
 
 
 ---
-
-Feel free to customize this README further to better suit your project's specifics. If you need any additional sections or modifications, let me know!
