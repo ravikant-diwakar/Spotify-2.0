@@ -1,6 +1,7 @@
 
-![330px-2024_Spotify_Logo svg](https://github.com/ravikant-diwakar/Spotify-2.0/assets/110620635/8aacf6cc-729c-4c9f-baef-0f1f9b0272b3)
-
+<div style="text-align: center;">
+  <img src="https://github.com/ravikant-diwakar/Spotify-2.0/assets/110620635/8aacf6cc-729c-4c9f-baef-0f1f9b0272b3" alt="Spotify 2.0 Clone Music App" style="width: 330px;">
+</div>
 
 # Spotify 2.0 Clone Music App
 
