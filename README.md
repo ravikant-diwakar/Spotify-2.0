@@ -1,10 +1,6 @@
 # Spotify 2.0 Clone Music App
 
-Welcome to the Spotify 2.0 Clone Music App! This project is an enhanced version of the popular music streaming service, Spotify. It includes features such as music playlists, search functionality, player controls, albums, and genre options to ensure a seamless and smooth user experience.
-
-## Introduction
-
-The Spotify 2.0 Clone Music App is designed to provide users with an immersive music streaming experience. With a user-friendly interface and a wide range of features, this app allows users to explore, play, and manage their favorite music effortlessly.
+A React-based web app with playlists, search, player controls, albums, genres, and seamless integration for a smooth user experience.
 
 ## Features
 
