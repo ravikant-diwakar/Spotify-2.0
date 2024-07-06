@@ -1,3 +1,6 @@
+![Spotify_Logo](https://github.com/ravikant-diwakar/Spotify-2.0/assets/110620635/3c51e998-6491-4058-83ff-67849f5e65dc)
+
+
 # Spotify 2.0 Clone Music App
 
 A React-based web app with playlists, search, player controls, albums, genres, and seamless integration for a smooth user experience.
