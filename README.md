@@ -58,5 +58,10 @@ We welcome contributions to enhance the Spotify 2.0 Clone Music App! To contribu
     ```
 6. **Open a pull request**.
 
+| Spotify 2.0 |
+|-------------|
+| ![image](https://github.com/ravikant-diwakar/Spotify-2.0/assets/110620635/0a078246-df25-4799-9fae-d1d84e243148) |
+| ![image](https://github.com/ravikant-diwakar/Spotify-2.0/assets/110620635/f30d6bd5-639f-4726-8d1f-78721bc60b23) |
+
 
 ---
