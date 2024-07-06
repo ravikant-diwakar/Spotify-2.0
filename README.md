@@ -1,4 +1,5 @@
-![Spotify_Logo](https://github.com/ravikant-diwakar/Spotify-2.0/assets/110620635/3c51e998-6491-4058-83ff-67849f5e65dc)
+
+![330px-2024_Spotify_Logo svg](https://github.com/ravikant-diwakar/Spotify-2.0/assets/110620635/8aacf6cc-729c-4c9f-baef-0f1f9b0272b3)
 
 
 # Spotify 2.0 Clone Music App
