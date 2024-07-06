@@ -38,16 +38,6 @@ A React-based web app with playlists, search, player controls, albums, genres, a
     http://localhost:3000
     ```
 
-## Usage
-
-Once the app is up and running, you can start exploring its features:
-
-- **Create Playlists**: Click on the "Create Playlist" button to start a new playlist.
-- **Search for Music**: Use the search bar to find your favorite songs, artists, albums, or genres.
-- **Control Playback**: Use the player controls at the bottom of the screen to play, pause, skip, or adjust the volume.
-- **Browse Albums**: Navigate to the "Albums" section to explore and listen to complete albums.
-- **Explore Genres**: Check out the "Genres" section to discover music by different genres.
-
 ## Contributing
 
 We welcome contributions to enhance the Spotify 2.0 Clone Music App! To contribute, follow these steps:
