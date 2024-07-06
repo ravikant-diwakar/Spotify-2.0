@@ -58,9 +58,6 @@ We welcome contributions to enhance the Spotify 2.0 Clone Music App! To contribu
     ```
 6. **Open a pull request**.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
