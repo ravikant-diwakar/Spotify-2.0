@@ -13,11 +13,9 @@ A React-based web app with playlists, search, player controls, albums, genres, a
 
 ## Installation
 
-To get started with the Spotify 2.0 Clone Music App, follow these steps:
-
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/spotify-2.0-clone.git
+    git clone https://github.com/ravikant-diwakar/Spotify-2.0
     ```
 
 2. **Navigate to the project directory**:
