@@ -9,7 +9,7 @@ A React-based web app with playlists, search, player controls, albums, genres, a
 
 ## Features
 
-- **Music Playlists**: Create, edit, and manage your own playlists.
+- **Music Playlists** : Create, edit, and manage your own playlists.
 - **Search Functionality**: Easily search for songs, artists, albums, and genres.
 - **Player Controls**: Play, pause, skip, and control the volume of your music.
 - **Albums**: Browse and listen to complete albums.
