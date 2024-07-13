@@ -23,7 +23,7 @@ A React-based web app with playlists, search, player controls, albums, genres, a
     git clone https://github.com/ravikant-diwakar/Spotify-2.0
     ```
 
-2. **Navigate to the project directory**:
+**Navigate to the project directory**:
     ```bash
     cd spotify-2.0-clone
     ```
