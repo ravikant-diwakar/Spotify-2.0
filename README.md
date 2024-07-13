@@ -13,7 +13,7 @@ A React-based web app with playlists, search, player controls, albums, genres, a
 - **Search Functionality** : Easily search for songs, artists, albums, and genres.
 - **Player Controls** : Play, pause, skip, and control the volume of your music.
 - **Albums** : Browse and listen to complete albums.
-- **Genre Options**: Explore music by different genres.
+- **Genre Options** : Explore music by different genres.
 - **Seamless Integration**: Smooth transitions and a responsive design for an optimal user experience.
 
 ## Installation
