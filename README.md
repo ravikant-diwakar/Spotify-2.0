@@ -18,7 +18,8 @@ A React-based web app with playlists, search, player controls, albums, genres, a
 
 ## Installation
 
-    **Clone the repository**:
+  **Clone the repository**:
+    
     ```bash
     git clone https://github.com/ravikant-diwakar/Spotify-2.0
     ```
